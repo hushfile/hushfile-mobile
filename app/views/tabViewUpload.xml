@@ -1,0 +1,7 @@
+<Alloy>
+    <Tab id="uploadTab" title="Upload">
+       <Window title="Upload" class="container" id="window">
+           <Button id="uploadButton" title="Tap to upload file" />
+        </Window>
+    </Tab>
+</Alloy>

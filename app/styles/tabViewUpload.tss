@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor: "white"
+}
+
+"#uploadButton": { 
+	width: 200,
+	height: 200
+}
+"#uploadButtonIconLabel": {
+}

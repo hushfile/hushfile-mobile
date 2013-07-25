@@ -1,0 +1,12 @@
+<Alloy>
+    <Tab id="downloadTab" title="Download">
+        <Window title="Download" class="container">
+            <View id="urlView">
+                <TextField id="fileUrl" hintText="http:// or hushfile://" />
+                <Button id="fileDownloadButton" title="Download" />
+            </View>
+            <Label id="orLabel" text="or"></Label>
+           <Button id="pasteButton" title="Download from clipboard" />
+        </Window>
+    </Tab>
+</Alloy>
